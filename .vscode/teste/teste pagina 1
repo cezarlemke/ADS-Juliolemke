@@ -1,7 +1,4 @@
-# ADS-Juliolemke
- Primeiro Repositório
-
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html lang="en">
  <head>
      <meta charset="UTF-8">
@@ -11,7 +8,5 @@
  <body>
      <h1>Site de teste pagina 1</h1>
      <a href="teste 2">pagna 2</a>
-
-     
  </body>
  </html>
