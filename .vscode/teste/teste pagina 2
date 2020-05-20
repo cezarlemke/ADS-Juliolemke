@@ -6,4 +6,15 @@
         <title>pagina 2 teste</title>
     </head>
     </body>
-</html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>testeJulio</title>
+    </head>
+    <body>
+        <h1>Site de teste pagina 2</h1> 
+        <h2>uma nova aba foi aberta para novos resoluções!!!</h2>
+    </body>
+    </html>
