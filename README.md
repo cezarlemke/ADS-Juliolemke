@@ -1,2 +1,0 @@
-# ADS-Juliolemke
- Primeiro Repositório
